@@ -1,0 +1,6 @@
+{
+  "name": "Helping Hand",
+  "description": "An AI-powered urgent-care check-in and smart queue assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
